@@ -22,8 +22,6 @@ Run the script in a Python environment and enter the names of the files to compa
 ```bash
 python diff.py
 
-Sure, here's a basic README for your `diff.py` script:
-
 ```markdown
 # File Comparison Script (diff.py)
 
@@ -46,9 +44,6 @@ If a difference is found, the script sets a flag (`difference_found`) to `True`.
 
 Run the script in a Python environment and enter the names of the files to compare when prompted. The files should be in the same directory as the script and should have a `.txt` extension.
 
-```bash
-python diff.py
-```
 
 ## Requirements
 
