@@ -1,0 +1,1 @@
+sample.txt and sample0.txt has same context

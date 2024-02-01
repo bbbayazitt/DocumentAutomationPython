@@ -1,0 +1,2 @@
+line4 sample0.txt :born, an what my lousy childhood was like, and how my parents were occupied and all before
+line4 sample1.txt :%NOT THE SAME%
