@@ -55,5 +55,3 @@ python diff.py
 - Python 3
 - Two text files to compare
 ```
-
-You can add this to a `README.md` file in your GitHub repository. Remember to update it if you make changes to your script or add more features.
